@@ -6,6 +6,7 @@ import Products from "./components/Products";
 
 export const config = {
   // endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+  endpoint: `https://qkart-frontend-kolq.onrender.com/api/v1`,
 };
 
 function App() {
